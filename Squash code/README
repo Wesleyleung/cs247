@@ -1,0 +1,12 @@
+CS247 Project 3: Gesture Controller
+By Parth Bhakta, Paul Lee, Wesley Leung, Chamal Samaranayake, and Pak Man Yuen 
+User can scroll through and select multiple targets from the screen with the MS Kinect using gestures
+
+Controller #1:
+-Scroll by leaning left/right
+-Select and unselect by putting elbows up and hands close together
+
+Controller #2:
+-Scroll by moving right foot forwards/backwards
+-Select by swiping left hand from left to right
+-Unselect by swiping right hand from right to left
